@@ -55,4 +55,3 @@ export const getDb = async () => { console.error('getDb not implemented');
   
   // Start the database
   initdb();
-node
