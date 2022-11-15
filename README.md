@@ -1,7 +1,7 @@
 # JATE ("Just Another Text Editor")
 
 - Challenge 19 assignment for UoB Bootcamp due 14-11-22
-- Deployed link:
+- Deployed link: https://dry-harbor-40548.herokuapp.com/
 
 Image of deployed application:
 
